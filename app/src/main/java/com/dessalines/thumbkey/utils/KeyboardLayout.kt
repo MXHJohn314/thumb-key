@@ -52,6 +52,7 @@ import com.dessalines.thumbkey.keyboards.KB_EN_HYPER_SPACE
 import com.dessalines.thumbkey.keyboards.KB_EN_IT_THUMBKEY
 import com.dessalines.thumbkey.keyboards.KB_EN_LA_THUMBKEY
 import com.dessalines.thumbkey.keyboards.KB_EN_MARLIN
+import com.dessalines.thumbkey.keyboards.KB_EN_MEDULLA
 import com.dessalines.thumbkey.keyboards.KB_EN_MESSAGEASE
 import com.dessalines.thumbkey.keyboards.KB_EN_MESSAGEASE_COMPOSE
 import com.dessalines.thumbkey.keyboards.KB_EN_MESSAGEASE_COMPOSE_COMBO
@@ -490,4 +491,5 @@ enum class KeyboardLayout(
     TOKThumbKeyLettersShift(KB_TOK_THUMBKEY_LETTERS_SHIFT), // toki pona thumb-key letters shift
     CZTypeSplit(KB_CZ_TYPESPLIT_FULL), // čeština type-split
     ENMessagEaseComposeCombo(KB_EN_MESSAGEASE_COMPOSE_COMBO), // english messagease compose combo
+    ENMedulla(KB_EN_MEDULLA), // english medulla
 }
